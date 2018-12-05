@@ -13,7 +13,7 @@ public class Math35 {
             boolean x = (i%3 == 0);
             boolean y = (i%5 == 0);
 
-            if (x || y == true) {
+            if (x || y ) {
                 System.out.println(i + " ");
                 sum +=i;
             }
