@@ -7,5 +7,10 @@ public class MainSimpleNb {
 
     long l = 600851475143L;
 
+    public static void main(String[] args) {
+
+
+    }
+
 
 }
