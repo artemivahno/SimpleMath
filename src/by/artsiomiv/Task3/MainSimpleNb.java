@@ -5,5 +5,7 @@ package by.artsiomiv.Task3;
 
 public class MainSimpleNb {
 
+    long l = 600851475143L;
+
 
 }
