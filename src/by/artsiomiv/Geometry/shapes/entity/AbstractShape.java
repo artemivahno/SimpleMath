@@ -1,7 +1,8 @@
 package by.artsiomiv.Geometry.shapes.entity;
 
-public class AbstractShape {
+public abstract class AbstractShape {
     private double a;
+
     AbstractShape(double a){
         this.a = a;
     }

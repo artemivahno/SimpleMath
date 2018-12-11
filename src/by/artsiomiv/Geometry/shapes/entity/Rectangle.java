@@ -1,6 +1,9 @@
 package by.artsiomiv.Geometry.shapes.entity;
 
-public class Rectangle extends AbstractShape {
+public class Rectangle extends Shape {
+
+    public void draw() {System.out.println("Rectangle.draw()");}
+    public void erase() {System.out.println("Rectangle.draw()");}
 
     private double b;
 
