@@ -1,7 +1,21 @@
 package by.artsiomiv.Checkers.Model;
 
-public abstract class Board {
+public class Board {
 
-    int board [][];
+    static int board [][];
 
+    static void newBoard () {
+
+        int board [][] = new int[8][8];
+
+    }
+
+    static void putPawn () {
+
+    }
+
+    public static String checkIfEnd() {
+
+        return null;
+    }
 }
